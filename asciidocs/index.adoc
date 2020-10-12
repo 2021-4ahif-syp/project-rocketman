@@ -37,13 +37,17 @@ With the mobile control unit it should be possible to launch model rockets by ca
 |08.10.2020
 |Ongoing
 
+|API determined
+|Unknown
+|Not yet started
+
 |Software implemented
 |Unknown
-|Unknown
+|Not yet started
 
 |Hardware installed in suitcase
 |Unknown
-|Unknown
+|Not yet started
 |===
 
 === Project goal
