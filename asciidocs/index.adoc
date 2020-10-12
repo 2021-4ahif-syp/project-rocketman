@@ -57,7 +57,7 @@ It should be finished by the end of this school year.
 See *Rocketman_Partslist.pdf*
 
 === Project risk
-A failure in the launch electronics could destroy the mobile control unit and/or the rocket. Wrong configuration of the LoRa or xBee modules could lead to the disqualification from the CanSat competition. It is possible that the needed hardware is not available.
+A failure in the launch electronics could destroy the mobile control unit and/or the rocket. Wrong configuration of the LoRa or xBee modules could lead to the disqualification from the CanSat competition. It is possible that the needed hardware is not available. Due to poor planing it could be possible that the hardware will not fit in the case.
 
 === Project team
 |===
